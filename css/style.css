@@ -43,6 +43,9 @@ footer{
 a{
     text-decoration: none;
 }
+.menu-btn{
+    display:none
+}
 .hidden-block{
     display: none;
 }
